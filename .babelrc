@@ -1,0 +1,5 @@
+{
+	"presets": ["es2015", "latest", "react", "stage-0"],
+	"sourceMaps": "inline",
+	"retainLines": true
+}
